@@ -1,0 +1,11 @@
+framework module analytics_library {
+  umbrella header "analytics_library.h"
+  export *
+
+  module * { export * }
+}
+
+module analytics_library.Swift {
+  header "analytics_library-Swift.h"
+  requires objc
+}
