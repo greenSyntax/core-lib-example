@@ -1,0 +1,11 @@
+framework module auth_library {
+  umbrella header "auth_library.h"
+  export *
+
+  module * { export * }
+}
+
+module auth_library.Swift {
+  header "auth_library-Swift.h"
+  requires objc
+}
