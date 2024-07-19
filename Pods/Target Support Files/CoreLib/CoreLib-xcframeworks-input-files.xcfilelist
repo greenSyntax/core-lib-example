@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/CoreLib/CoreLib-xcframeworks.sh
+${PODS_ROOT}/CoreLib/Frameworks/auth_library.xcframework
+${PODS_ROOT}/CoreLib/Frameworks/analytics_library.xcframework

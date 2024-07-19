@@ -1,0 +1,2 @@
+${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/auth_library.framework
+${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/analytics_library.framework

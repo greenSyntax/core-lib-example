@@ -1,0 +1,2 @@
+${PODS_XCFRAMEWORKS_BUILD_DIR}/CoreLib/auth_library.framework
+${PODS_XCFRAMEWORKS_BUILD_DIR}/CoreLib/analytics_library.framework

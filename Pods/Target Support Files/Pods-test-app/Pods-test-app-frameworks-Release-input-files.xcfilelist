@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-test-app/Pods-test-app-frameworks.sh
+${PODS_XCFRAMEWORKS_BUILD_DIR}/CoreLib/auth_library.framework/auth_library
+${PODS_XCFRAMEWORKS_BUILD_DIR}/CoreLib/analytics_library.framework/analytics_library

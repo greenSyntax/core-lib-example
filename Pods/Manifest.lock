@@ -1,0 +1,21 @@
+PODS:
+  - CoreLib (1.0.1)
+
+DEPENDENCIES:
+  - CoreLib (from `https://github.com/greenSyntax/core-lib-example.git`)
+
+EXTERNAL SOURCES:
+  CoreLib:
+    :git: https://github.com/greenSyntax/core-lib-example.git
+
+CHECKOUT OPTIONS:
+  CoreLib:
+    :commit: a692e8b80f9d0a3903273f15ead1baf2a7118cfe
+    :git: https://github.com/greenSyntax/core-lib-example.git
+
+SPEC CHECKSUMS:
+  CoreLib: d1069570049e7242adb89fc1aa7c3aaac09b8fd3
+
+PODFILE CHECKSUM: 74d0f8ad6b01e85f5aad8af30dcb514459d6bb9b
+
+COCOAPODS: 1.15.2

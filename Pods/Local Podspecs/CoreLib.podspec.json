@@ -1,0 +1,29 @@
+{
+  "name": "CoreLib",
+  "version": "1.0.1",
+  "summary": "Core Library for NoMansLand",
+  "description": "This is an Core Library which will help us in achieving nothing",
+  "homepage": "https://greensyntax.app",
+  "authors": {
+    "Abhishek Ravi": "ab.abhishek.ravi@gmail.com"
+  },
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "source": {
+    "git": "https://github.com/greenSyntax/core-lib.git",
+    "tag": "1.0.1"
+  },
+  "swift_versions": "5.0",
+  "platforms": {
+    "ios": "13.0"
+  },
+  "ios": {
+    "vendored_frameworks": [
+      "Frameworks/auth_library.xcframework",
+      "Frameworks/analytics_library.xcframework"
+    ]
+  },
+  "swift_version": "5.0"
+}
